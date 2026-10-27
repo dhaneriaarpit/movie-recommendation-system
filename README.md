@@ -35,4 +35,4 @@ streamlit run app.py
 
 ## Deployed URL
 
-https://your-app-name.onrender.com
+   https://movie-recommendation-system-8b4z.onrender.com
